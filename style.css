@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(56, 45, 185);
+    background-color: rgb(59, 194, 235);
+}
+
+body {
+    background-color: rgb(0, 140, 255);
+}
+
+li{
+    list-style:none;
+    padding:20px 30px 40px 30px;
+    color: white;
+  }
+
+ul{
+    display:flex;
+ }
+ .header {
+    background-color: rgba(167, 240, 237, 0.399);
+    height: 70px;
+ }
+ 
+
