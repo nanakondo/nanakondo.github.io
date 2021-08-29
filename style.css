@@ -20,7 +20,11 @@ body {
     overflow: hidden;
     z-index: -1;}
 
-
+.background video {
+     margin: 0 auto;
+     z-index: -1;
+    width: 100%;
+ }
 
 /* .header {
     width: 100%;
